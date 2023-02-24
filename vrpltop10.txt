@@ -1,4 +1,2 @@
-1	Tumeski	1015
-
-2	Ebinnnn	985
-
+1	Tumeski	1030
+2	Ebinnnn	970
